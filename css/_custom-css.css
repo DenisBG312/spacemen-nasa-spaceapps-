@@ -1,0 +1,78 @@
+.gotopbtn{
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    background: #27ae60;
+    bottom: 40px;
+    text-decoration: none;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 50%;
+    background-color: #6C757D;
+  }
+
+  .gotopbtn i{
+    color: white;
+  }
+
+ .logo.img-nav{
+    cursor: pointer;
+}
+
+  .fontawesome i{
+    font-size: 50px;
+  }
+
+  .why-t{
+    font-size: 57px;
+  }
+
+  .above-text_p{
+    font-size: 17px;
+  }
+
+  i.fa-user-astronaut{
+    color: black;
+  }
+
+  i.fa-rocket{
+    color: #34495e;
+  }
+
+  i.fa-satellite-dish{
+    color: #2c3e50;
+  }
+
+  i.fa-meteor{
+    color: #F79F1F;
+  }
+
+  i.fa-location-dot{
+    color: #c23616;
+  }
+
+  i.fa-lightbulb{
+    color: #f1c40f;
+  }
+
+  .center-logos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .onHover .onHover1 .onHover2 .onHover3 .onHover4 .onHover5 .onHover6{
+    filter: grayscale(100%);
+  }
+
+  .onHover .onHover1 .onHover2 .onHover3 .onHover4 .onHover5 .onHover6:hover{
+    filter: grayscale(0%);
+  }
+
+  span.Team_{
+    color: #c23616;
+  }
+
+  .item-logo{
+    width: 180px;
+  }
